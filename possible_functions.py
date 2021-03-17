@@ -60,3 +60,16 @@ common words between file
 
 # function 7:
 longest word in the books
+
+# function 8:
+def retrive_random_word(dict):
+    '''
+    return a random word choosing from the keys in dict 
+    the probability of each key being returned = its value / sum of all values 
+    dict: a dictionary (keys: words; values: frequency of words)
+    '''
+    randindex = randint(1, sum_freq(dict))
+    for key, value in dict.items():
+        randindex -= value
+        if randindex <= 0:
+            return key
