@@ -54,16 +54,11 @@ def different_words(hist):
     return unique
 
 
-def most_common(hist, excluding_stopwords=False):
+def most_common(hist):
     """Makes a list of word-freq pairs in descending order of frequency.
     hist: map from word to frequency
     returns: list of (frequency, word) pairs
     """
-    # 1. create a new list
-    # 2. get the word, frequency from given list
-    # 3. create tuples (frequency, word)
-    # 4. append the tuples to the list
-
     sorted_list = []
     for word, freq in hist.items():
         t = (freq, word)
@@ -73,69 +68,11 @@ def most_common(hist, excluding_stopwords=False):
     return sorted_list
 
 
-def print_most_common(hist, num=10):
-    """Prints the most commons words in a histgram and their frequencies.
-    hist: histogram (map from word to frequency)
-    num: number of words to print
-    """
-    print('The most common words are:')
-    for freq, word in hist[0:num]:
-        print(word, '\t', freq)
-
-
-def subtract(d1, d2):
-    """Returns a dictionary with all keys that appear in d1 but not d2.
-    d1, d2: dictionaries
-    """
-    d = dict()
-    text = "not in dictionary"
-    for i in d1:
-        if i not in d2:
-            d[i] = text
-    return d
-    
-
 def random_word(hist):
     """Chooses a random word from a histogram.
     The probability of each word is proportional to its frequency.
     """
-    # t = []
-    # for word, freq in hist.items():
-    #     t.extend([word] * freq)
-    # return random.choice(t)
-
-    text = []
-    freq_final = 0
-    for word, freq in hist.item():
-        text.append[word]
-        freq_final += freq
-    ran = random.randint(1,freq_final)
-    # perform bisection search
-    # return text[ran]
-
-def main():
-    hist = process_file('data/gatsby.txt', skip_header=True)
-    # print(hist)
-    # print('Total number of words:', total_words(hist))
-    # print('Number of different words:', different_words(hist))
-
-    # t = most_common(hist, excluding_stopwords=True)
-    # print('The most common words are:')
-    # for freq, word in t[0:20]:
-    #     print(word, '\t', freq)
-
-    # print_most_common(most_common(hist, excluding_stopwords=True))
-    
-    # words = process_file('data/words.txt', skip_header=False)
-    # diff = subtract(hist, words)
-    # print("The words in the book that aren't in the word list are:")
-    # for word in diff.keys():
-    #     print(word, end=' ')
-
-    # print("\n\nHere are some random words from the book")
-    # for i in range(100):
-    #     print(random_word(hist), end=' ')
-
-
-if __name__ == '__main__':
-    main()
+    t = []
+    for word, freq in hist.items():
+        t.extend([word] * freq)
+    return random.choice(t)
