@@ -13,7 +13,7 @@ Title: Sense and Sensibility
 Author: Jane Austen
 
 Release Date: September, 1994 [eBook #161]
-[Most recently updated: December 29, 2020]
+[Most recently updated: March 16, 2021]
 
 Language: English
 
@@ -21,7 +21,7 @@ Character set encoding: UTF-8
 
 Special thanks are due to Sharon Partridge for extensive proofreading and correction of this etext.
 
-*** START OF THE PROJECT GUTENBERG EBOOK  SENSE AND SENSIBILITY ***
+*** START OF THE PROJECT GUTENBERG EBOOK SENSE AND SENSIBILITY ***
 
 [Illustration]
 
@@ -470,7 +470,7 @@ the part of his son in their favour, which gave comfort to his last
 earthly reflections. She doubted the sincerity of this assurance no
 more than he had doubted it himself, and she thought of it for her
 daughters’ sake with satisfaction, though as for herself she was
-persuaded that a much smaller provision than 7000L would support her in
+persuaded that a much smaller provision than 7000£ would support her in
 affluence. For their brother’s sake, too, for the sake of his own
 heart, she rejoiced; and she reproached herself for being unjust to his
 merit before, in believing him incapable of generosity. His attentive
@@ -560,7 +560,7 @@ No sooner did she perceive any symptom of love in his behaviour to
 Elinor, than she considered their serious attachment as certain, and
 looked forward to their marriage as rapidly approaching.
 
-“In a few months, my dear Marianne.” said she, “Elinor will, in all
+“In a few months, my dear Marianne,” said she, “Elinor will, in all
 probability be settled for life. We shall miss her; but _she_ will be
 happy.”
 
@@ -2043,7 +2043,7 @@ on that head. The grounds were declared to be highly beautiful, and Sir
 John, who was particularly warm in their praise, might be allowed to be
 a tolerable judge, for he had formed parties to visit them, at least,
 twice every summer for the last ten years. They contained a noble piece
-of water; a sail on which was to a form a great part of the morning’s
+of water; a sail on which was to form a great part of the morning’s
 amusement; cold provisions were to be taken, open carriages only to be
 employed, and every thing conducted in the usual style of a complete
 party of pleasure.
@@ -3372,7 +3372,7 @@ said, in a whisper, “I have been guessing. Shall I tell you my guess?”
 
 “What do you mean?”
 
-“Shall I tell you.”
+“Shall I tell you?”
 
 “Certainly.”
 
@@ -3850,7 +3850,7 @@ Mr. Palmer took no notice of her.
 shocking.”
 
 “No,” said he, “I never said any thing so irrational. Don’t palm all
-your abuses of languages upon me.”
+your abuses of language upon me.”
 
 “There now; you see how droll he is. This is always the way with him!
 Sometimes he won’t speak to me for half a day together, and then he
@@ -5915,7 +5915,7 @@ too miserable to stay a minute longer.
 Lady Middleton, though in the middle of a rubber, on being informed
 that Marianne was unwell, was too polite to object for a moment to her
 wish of going away, and making over her cards to a friend, they
-departed as soon the carriage could be found. Scarcely a word was
+departed as soon as the carriage could be found. Scarcely a word was
 spoken during their return to Berkeley Street. Marianne was in a silent
 agony, too much oppressed even for tears; but as Mrs. Jennings was
 luckily not come home, they could go directly to their own room, where
@@ -6040,7 +6040,7 @@ Mrs. Jennings laughed again, but Elinor had not spirits to say more,
 and eager at all events to know what Willoughby had written, hurried
 away to their room, where, on opening the door, she saw Marianne
 stretched on the bed, almost choked by grief, one letter in her hand,
-and two or three others laying by her. Elinor drew near, but without
+and two or three others lying by her. Elinor drew near, but without
 saying a word; and seating herself on the bed, took her hand, kissed
 her affectionately several times, and then gave way to a burst of
 tears, which at first was scarcely less violent than Marianne’s. The
@@ -6053,10 +6053,10 @@ course, watched by her till this excess of suffering had somewhat spent
 itself, and then turning eagerly to Willoughby’s letter, read as
 follows:
 
-“Bond Street, January.
+                                    “Bond Street, January.
 
 
-MY DEAR MADAM,
+        MY DEAR MADAM,
     “I have just had the honour of receiving your letter, for which I
     beg to return my sincere acknowledgments. I am much concerned to
     find there was anything in my behaviour last night that did not
@@ -6524,7 +6524,7 @@ No more would Sir John, nor my daughters, for they are all very
 thoughtful and considerate; especially if I give them a hint, as I
 certainly will. For my part, I think the less that is said about such
 things, the better, the sooner ’tis blown over and forgot. And what
-does talking ever do you know?”
+good does talking ever do you know?”
 
 “In this affair it can only do harm; more so perhaps than in many cases
 of a similar kind, for it has been attended by circumstances which, for
@@ -8260,8 +8260,8 @@ a reflection on the inconstancy of beaux before Marianne, no effect was
 produced, but a look of indifference from the former, or of disgust in
 the latter. An effort even yet lighter might have made her their
 friend. Would they only have laughed at her about the Doctor! But so
-little were they, anymore than the others, inclined to oblige her, that
-if Sir John dined from home, she might spend a whole day without
+little were they, any more than the others, inclined to oblige her,
+that if Sir John dined from home, she might spend a whole day without
 hearing any other raillery on the subject, than what she was kind
 enough to bestow on herself.
 
@@ -10882,7 +10882,7 @@ every thing was then just settled between Miss Grey and me. To retreat
 was impossible. All that I had to do, was to avoid you both. I sent no
 answer to Marianne, intending by that to preserve myself from her
 farther notice; and for some time I was even determined not to call in
-Berkeley Street;but at last, judging it wiser to affect the air of a
+Berkeley Street;—but at last, judging it wiser to affect the air of a
 cool, common acquaintance than anything else, I watched you all safely
 out of the house one morning, and left my name.”
 
@@ -11036,8 +11036,8 @@ hand while he reminded me of an old promise about a pointer puppy. What
 I felt on hearing that your sister was dying, and dying too, believing
 me the greatest villain upon earth, scorning, hating me in her latest
 moments—for how could I tell what horrid projects might not have been
-imputed? _One_ person I was sure would represent me as capable of any
-thing What I felt was dreadful! My resolution was soon made, and at
+imputed? _One_ person I was sure would represent me as capable of
+anything—What I felt was dreadful! My resolution was soon made, and at
 eight o’clock this morning I was in my carriage. Now you know all.”
 
 Elinor made no answer. Her thoughts were silently fixed on the
@@ -12117,7 +12117,7 @@ learning that Lucy was married to another, that Edward was free, to the
 moment of his justifying the hopes which had so instantly followed, she
 was every thing by turns but tranquil. But when the second moment had
 passed, when she found every doubt, every solicitude removed, compared
-her situation with what so lately it had beenc—saw him honourably
+her situation with what so lately it had been,—saw him honourably
 released from his former engagement,—saw him instantly profiting by the
 release, to address herself and declare an affection as tender, as
 constant as she had ever supposed it to be,—she was oppressed, she was
@@ -12711,20 +12711,22 @@ be renamed.
 
 Creating the works from print editions not protected by U.S. copyright
 law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
 royalties. Special rules, set forth in the General Terms of Use part
 of this license, apply to copying and distributing Project
 Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
 concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
 
 START: FULL LICENSE
 
@@ -12788,7 +12790,7 @@ agreement before downloading, copying, displaying, performing,
 distributing or creating derivative works based on this work or any
 other Project Gutenberg-tm work. The Foundation makes no
 representations concerning the copyright status of any work in any
-country outside the United States.
+country other than the United States.
 
 1.E. Unless you have removed all references to Project Gutenberg:
 
@@ -12841,7 +12843,7 @@ compressed, marked up, nonproprietary or proprietary form, including
 any word processing or hypertext form. However, if you provide access
 to or distribute copies of a Project Gutenberg-tm work in a format
 other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
+version posted on the official Project Gutenberg-tm website
 (www.gutenberg.org), you must, at no additional cost, fee or expense
 to the user, provide a copy, a means of exporting a copy, or a means
 of obtaining a copy upon request, of the work in its original "Plain
@@ -12854,7 +12856,7 @@ unless you comply with paragraph 1.E.8 or 1.E.9.
 
 1.E.8. You may charge a reasonable fee for copies of or providing
 access to or distributing Project Gutenberg-tm electronic works
-provided that
+provided that:
 
 * You pay a royalty fee of 20% of the gross profits you derive from
   the use of Project Gutenberg-tm works calculated using the method
@@ -12888,9 +12890,9 @@ provided that
 1.E.9. If you wish to charge a fee or distribute a Project
 Gutenberg-tm electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
 
 1.F.
 
@@ -12980,7 +12982,7 @@ www.gutenberg.org
 Section 3. Information about the Project Gutenberg Literary
 Archive Foundation
 
-The Project Gutenberg Literary Archive Foundation is a non profit
+The Project Gutenberg Literary Archive Foundation is a non-profit
 501(c)(3) educational corporation organized under the laws of the
 state of Mississippi and granted tax exempt status by the Internal
 Revenue Service. The Foundation's EIN or federal tax identification
@@ -12988,27 +12990,18 @@ number is 64-6221541. Contributions to the Project Gutenberg Literary
 Archive Foundation are tax deductible to the full extent permitted by
 U.S. federal laws and your state's laws.
 
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
 
 Section 4. Information about Donations to the Project Gutenberg
 Literary Archive Foundation
 
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
+freely distributed in machine-readable form accessible by the widest
 array of equipment including outdated equipment. Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
@@ -13031,12 +13024,12 @@ International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
 outside the United States. U.S. laws alone swamp our small staff.
 
-Please check the Project Gutenberg Web pages for current donation
+Please check the Project Gutenberg web pages for current donation
 methods and addresses. Donations are accepted in a number of other
 ways including checks, online payments and credit card donations. To
 donate, please visit: www.gutenberg.org/donate
 
-Section 5. General Information About Project Gutenberg-tm electronic works.
+Section 5. General Information About Project Gutenberg-tm electronic works
 
 Professor Michael S. Hart was the originator of the Project
 Gutenberg-tm concept of a library of electronic works that could be
@@ -13050,10 +13043,12 @@ the U.S. unless a copyright notice is included. Thus, we do not
 necessarily keep eBooks in compliance with any particular paper
 edition.
 
-Most people start at our Web site which has the main PG search
+Most people start at our website which has the main PG search
 facility: www.gutenberg.org
 
-This Web site includes information about Project Gutenberg-tm,
+This website includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+subscribe to our email newsletter to hear about new eBooks.
+
+
