@@ -173,7 +173,8 @@ def jaccard_similarity(alltexts):
                 intersection4 += 1
     score4 = intersection4/len(union)
 
-    print("\nThe similarity between", keys[0], "and the rest is: ", score1)
+    print("\nThe similarity scores are:")
+    print("The similarity between", keys[0], "and the rest is: ", score1)
     print("The similarity between", keys[1], "and the rest is: ", score2)
     print("The similarity between", keys[2], "and the rest is: ", score3)
     print("The similarity between", keys[3], "and the rest is: ", score4)
