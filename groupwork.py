@@ -54,15 +54,19 @@ def common_words(book1, book2, book3, book4):
     prints top 20 common words for each of the four books
     """  
     books = [book1, book2, book3, book4]
-
-    x = 0
-    for i in books:
-        t = analyze_book.most_common(i)
-        print("\nThe most common words in", keys[x], "are:")
-        for freq, word in t[0:20]:
-            print(word, '\t', freq)
-        x += 1
-
+    print("\nThe most common words are:")
+    print("\nPride and Prejudice\tSense and Sensibility\tNorthanger Abbey\tMansfield Park")
+    
+    # prints common words into a table
+    for x in range(20):
+        output = []
+        for i in books:
+            t = analyze_book.most_common(i)
+            for freq, word in t[x:x+1]:
+                add = str(word)+"      "+str(freq)
+                output.append(add)
+        print("\t\t".join(output))
+       
 
 def common_words_wo_stopwords(text1, text2, text3, text4):
     """
