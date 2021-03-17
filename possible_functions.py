@@ -56,3 +56,7 @@ def print_most_common(hist, num=10):
 
 # function 6:
 common words between file
+
+
+# function 7:
+longest word in the books
