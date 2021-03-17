@@ -120,6 +120,15 @@ def summary_stats(book1, book2, book3, book4):
     print(tabulate(data, headers=["Text", "# of Total Words", "# of Unique Words", "Percentage of Unique Words(%)"]))
 
 
+def sentiment(t1,t2,t3,t4):
+    from nltk.sentiment.vader import SentimentIntensityAnalyzer
+    score1 = SentimentIntensityAnalyzer().polarity_scores(t1)
+    score2 = SentimentIntensityAnalyzer().polarity_scores(t2)
+    score3 = SentimentIntensityAnalyzer().polarity_scores(t3)
+    score4 = SentimentIntensityAnalyzer().polarity_scores(t4)
+    print("\nThe sentiments are:\n", keys[0], score1,"\n", keys[1], score2,"\n", keys[2], score3,"\n", keys[3], score4)
+
+
 def main():
     download_books()
 
@@ -131,6 +140,7 @@ def main():
 
     summary_stats(b1,b2,b3,b4)
 
+    sentiment(t1,t2,t3,t4)
 
 if __name__ == '__main__':
     main()
