@@ -4,6 +4,7 @@ import string
 import nltk
 
 keys = ["Pride and Prejudice.txt", "Sense and Sensibility.txt", "Northanger Abbey.txt", "Mansfield Park.txt"]
+list_of_texts = []
 
 def download_books():
     """
@@ -88,6 +89,7 @@ def common_words_wo_stopwords(text1, text2, text3, text4):
         for w in word_tokens:  
             if w not in stop_words:  
                 filtered_sentence.append(w)
+        list_of_texts.append(filtered_sentence)
         output = Counter(filtered_sentence)
         common = output.most_common(20)
         print("\nThe most common words without stopwords in", keys[x], "are:", "\n", common)
@@ -120,13 +122,61 @@ def summary_stats(book1, book2, book3, book4):
     print(tabulate(data, headers=["Text", "# of Total Words", "# of Unique Words", "Percentage of Unique Words(%)"]))
 
 
-def sentiment(t1,t2,t3,t4):
+def sentiment(text1, text2, text3, text4):
+    """
+    prints sentiment polarity scores for each book
+    """
     from nltk.sentiment.vader import SentimentIntensityAnalyzer
-    score1 = SentimentIntensityAnalyzer().polarity_scores(t1)
-    score2 = SentimentIntensityAnalyzer().polarity_scores(t2)
-    score3 = SentimentIntensityAnalyzer().polarity_scores(t3)
-    score4 = SentimentIntensityAnalyzer().polarity_scores(t4)
+    score1 = SentimentIntensityAnalyzer().polarity_scores(text1)
+    score2 = SentimentIntensityAnalyzer().polarity_scores(text2)
+    score3 = SentimentIntensityAnalyzer().polarity_scores(text3)
+    score4 = SentimentIntensityAnalyzer().polarity_scores(text4)
     print("\nThe sentiments are:\n", keys[0], score1,"\n", keys[1], score2,"\n", keys[2], score3,"\n", keys[3], score4)
+
+
+def jaccard_similarity(alltexts):
+    """
+    prints jaccard similarity score of each book compared to all four books
+    """
+    text1 = alltexts[0]
+    text2 = alltexts[1]
+    text3 = alltexts[2]
+    text4 = alltexts[3]
+    union = text1+text2+text3+text4
+    intersection1 = 0
+    intersection2 = 0
+    intersection3 = 0
+    intersection4 = 0
+
+    # checks for similarity in each book
+    for a in text1:
+        if a in text2 and a in text3:
+            if a in text4:
+                intersection1 += 1
+    score1 = intersection1/len(union)
+
+    for b in text2:
+        if b in text1 and b in text3:
+            if b in text4:
+                intersection2 += 1
+    score2 = intersection2/len(union)
+
+    for c in text3:
+        if c in text2 and c in text1:
+            if c in text4:
+                intersection3 += 1
+    score3 = intersection3/len(union)
+
+    for d in text4:
+        if d in text2 and d in text3:
+            if d in text1:
+                intersection4 += 1
+    score4 = intersection4/len(union)
+
+    print("\nThe similarity between", keys[0], "and the rest is: ", score1)
+    print("The similarity between", keys[1], "and the rest is: ", score2)
+    print("The similarity between", keys[2], "and the rest is: ", score3)
+    print("The similarity between", keys[3], "and the rest is: ", score4)
 
 
 def main():
@@ -141,6 +191,9 @@ def main():
     summary_stats(b1,b2,b3,b4)
 
     sentiment(t1,t2,t3,t4)
+
+    jaccard_similarity(list_of_texts)
+    
 
 if __name__ == '__main__':
     main()
