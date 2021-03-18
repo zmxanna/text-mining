@@ -68,11 +68,3 @@ def most_common(hist):
     return sorted_list
 
 
-def random_word(hist):
-    """Chooses a random word from a histogram.
-    The probability of each word is proportional to its frequency.
-    """
-    t = []
-    for word, freq in hist.items():
-        t.extend([word] * freq)
-    return random.choice(t)
